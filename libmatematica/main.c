@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include "libmatematica.h"
-#include <math.h>
+#include <math.h> 
 
 int main () {
     float angulo_radianos = 1.047;
