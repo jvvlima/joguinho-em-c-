@@ -53,8 +53,8 @@ capacidade, int passageiros)
 int main() {
     vector<Veiculo*> veiculos;
 
-    Caminhao caminhao("Mercedes", "1313", 20, 3);
-    Van van("Peugeot", "Boxer", 1, 8);
+    Caminhao caminhao("Mercedes", "1313", 50, 6);
+    Van van("Peugeot", "Boxer", 2, 6);
 
     veiculos.push_back(&caminhao);
     veiculos.push_back(&van);
